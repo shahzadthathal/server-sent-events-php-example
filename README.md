@@ -1,4 +1,4 @@
-# server-sent-events-php-example
+# Server Sent Events(SSE) PHP Example
 The EventSource interface is used to receive server-sent events. It connects to a server over HTTP and receives events in text/event-stream format without closing the connection.
 
 
@@ -18,7 +18,7 @@ The EventSource interface is used to receive server-sent events. It connects to 
   
  
  
- ##Enjoy...!!!
+ **Just chill...!!!** :+1:
  
  
  ![alt tag](https://raw.githubusercontent.com/shahzadthathal/server-sent-events-php-example/master/server-sent-events-php-example.jpg)

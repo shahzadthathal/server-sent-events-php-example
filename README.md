@@ -18,7 +18,7 @@ The EventSource interface is used to receive server-sent events. It connects to 
   
  
  
- **Just chill...!!!** :+1:
+ **Just chill...!!!** :lollipop:
  
  
  ![alt tag](https://raw.githubusercontent.com/shahzadthathal/server-sent-events-php-example/master/server-sent-events-php-example.jpg)

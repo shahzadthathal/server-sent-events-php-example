@@ -23,7 +23,7 @@ if ($result->num_rows > 0) {
     echo "data: 0 results";
 }
 
-//echo 'data: ' . json_encode($arrayName) . "\n\n";
+echo 'data: ' . json_encode($arrayName) . "\n\n";
 
 
 $conn->close();

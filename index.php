@@ -16,7 +16,7 @@ var n;
   else if (Notification.permission === "granted") {
     // If it's okay let's create a notification
     var options = {
-      body: "Warm Welcome on Ipay.nl",
+      body: "Warm Welcome!!!",
       icon: "img/rock.jpg"
   }
     n = new Notification("Hi there!",options);
